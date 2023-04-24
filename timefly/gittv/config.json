@@ -1,4 +1,4 @@
 [
-  {"login": "timothyisok", "name": "gittv", "path": ""},
-  {"login": "iptv-org", "name": "iptv", "path": "streams"},
+  {"login": "timothyisok", "name": "gittv", "path": "", "visibility": "public"},
+  {"login": "iptv-org", "name": "iptv", "path": "streams", "visibility": "public"}
 ]
