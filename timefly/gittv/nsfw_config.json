@@ -1,6 +1,26 @@
 [
-  {"login": "timothyisok", "name": "gittv", "path": "", "visibility": "public"},
-  {"login": "iptv-org", "name": "iptv", "path": "streams", "visibility": "public"},
-  {"login": "ivanfranek", "name": "m3u-collection", "path": "", "visibility": "public"},
-  {"login": "YanG-1989", "name": "m3u", "path": "", "visibility": "private"}
+  {
+    "login": "timothyisok",
+    "name": "gittv",
+    "path": "",
+    "visibility": "public"
+  },
+  {
+    "login": "iptv-org",
+    "name": "iptv",
+    "path": "streams",
+    "visibility": "public"
+  },
+  {
+    "login": "ivanfranek",
+    "name": "m3u-collection",
+    "path": "",
+    "visibility": "public"
+  },
+  {
+    "login": "YanG-1989",
+    "name": "m3u",
+    "path": "",
+    "visibility": "private"
+  }
 ]
