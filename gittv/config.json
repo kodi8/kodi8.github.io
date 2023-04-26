@@ -1,0 +1,26 @@
+[
+  {
+    "login": "ivanfranek",
+    "name": "m3u-collection",
+    "path": "",
+    "visibility": "public"
+  },
+  {
+    "login": "iptv-org",
+    "name": "iptv",
+    "path": "streams",
+    "visibility": "public"
+  },
+  {
+    "login": "fanmingming",
+    "name": "live",
+    "path": "tv/m3u",
+    "visibility": "public"
+  },
+  {
+    "login": "free-tv",
+    "name": "iptv",
+    "path": "playlists",
+    "visibility": "public"
+  }
+]
