@@ -72,8 +72,20 @@
     "visibility": "public"
   },
   {
-    "login": "YanG-1989",
+    "login": "yang-1989",
     "name": "m3u",
+    "path": "",
+    "visibility": "private"
+  },
+  {
+    "login": "zhanghongguang",
+    "name": "zhanghongguang.github.io",
+    "path": "",
+    "visibility": "private"
+  },
+  {
+    "login": "atsushi444",
+    "name": "iptv",
     "path": "",
     "visibility": "private"
   }
