@@ -12,6 +12,12 @@
     "visibility": "public"
   },
   {
+    "login": "youshandefeiyang",
+    "name": "IPTV",
+    "path": "main",
+    "visibility": "public"
+  },
+  {
     "login": "iptv-org",
     "name": "iptv",
     "path": "streams",
