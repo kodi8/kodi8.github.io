@@ -13,10 +13,52 @@
   },
   {
     "login": "youshandefeiyang",
-    "name": "IPTV",
+    "name": "iptv",
     "path": "main",
     "visibility": "public"
   },
+  {
+    "login": "yuechan",
+    "name": "live",
+    "path": "",
+    "visibility": "public"
+  },
+  {
+    "login": "wuyun999",
+    "name": "wuyun",
+    "path": "zb",
+    "visibility": "public"
+  },
+  {
+    "login": "zbefine",
+    "name": "iptv",
+    "path": "",
+    "visibility": "public"
+  },
+  {
+    "login": "kimentanm",
+    "name": "aptv",
+    "path": "m3u",
+    "visibility": "public"
+  },
+  {
+    "login": "whpsky",
+    "name": "iptv",
+    "path": "",
+    "visibility": "public"
+  },
+  {
+    "login": "kozalak-robot",
+    "name": "iptv",
+    "path": "",
+    "visibility": "public"
+  },
+  {
+    "login": "hussobaba",
+    "name": "aile-tv",
+    "path": "",
+    "visibility": "public"
+  }
   {
     "login": "iptv-org",
     "name": "iptv",
