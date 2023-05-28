@@ -3,90 +3,98 @@
     "login": "ivanfranek",
     "name": "m3u-collection",
     "path": "",
+    "keep": ["movies"],
     "visibility": "public"
   },
   {
     "login": "fanmingming",
     "name": "live",
     "path": "tv/m3u",
-    "visibility": "public"
-  },
-  {
-    "login": "youshandefeiyang",
-    "name": "iptv",
-    "path": "main",
+    "keep": [],
     "visibility": "public"
   },
   {
     "login": "yuechan",
     "name": "live",
     "path": "",
+    "keep": [],
     "visibility": "public"
   },
   {
     "login": "wuyun999",
     "name": "wuyun",
     "path": "zb",
+    "keep": [],
     "visibility": "public"
   },
   {
     "login": "zbefine",
     "name": "iptv",
     "path": "",
+    "keep": [],
     "visibility": "public"
   },
   {
     "login": "kimentanm",
     "name": "aptv",
     "path": "m3u",
+    "keep": [],
     "visibility": "public"
   },
   {
     "login": "whpsky",
     "name": "iptv",
     "path": "",
+    "keep": [],
     "visibility": "public"
   },
   {
     "login": "kozalak-robot",
     "name": "iptv",
     "path": "",
+    "keep": [],
     "visibility": "public"
   },
   {
     "login": "hussobaba",
     "name": "aile-tv",
     "path": "",
+    "keep": [],
     "visibility": "public"
   },
   {
     "login": "iptv-org",
     "name": "iptv",
     "path": "streams",
+    "keep": [],
     "visibility": "public"
   },
   {
     "login": "free-tv",
     "name": "iptv",
     "path": "playlists",
+    "keep": [],
     "visibility": "public"
   },
   {
     "login": "yang-1989",
     "name": "m3u",
     "path": "",
+    "keep": [],
     "visibility": "private"
   },
   {
     "login": "zhanghongguang",
     "name": "zhanghongguang.github.io",
     "path": "",
+    "keep": [],
     "visibility": "private"
   },
   {
     "login": "atsushi444",
     "name": "iptv",
     "path": "",
+    "keep": [],
     "visibility": "private"
   }
 ]
