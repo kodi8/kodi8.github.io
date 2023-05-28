@@ -3,14 +3,14 @@
     "login": "ivanfranek",
     "name": "m3u-collection",
     "path": "",
-    "keep": ["movies", ""],
+    "keep": ["movies"],
     "visibility": "public"
   },
   {
     "login": "fanmingming",
     "name": "live",
     "path": "tv/m3u",
-    "keep": ["tv/m3u"],
+    "keep": [],
     "visibility": "public"
   },
   {
