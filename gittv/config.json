@@ -10,7 +10,7 @@
     "login": "fanmingming",
     "name": "live",
     "path": "tv/m3u",
-    "keep": [""],
+    "keep": ["tv/m3u"],
     "visibility": "public"
   },
   {
